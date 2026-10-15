@@ -1,4 +1,4 @@
-Hi, I'm Abyan. I'm a senior at Chapin High School in El Paso, and I'm planning to study aerospace engineering, with computer science close behind.
+Hi, I'm Abyan.
 
 My main project is [Zephyr-Mesh](https://github.com/Whyater/Zephyr-Mesh), a Python simulation for studying how radio latency, packet loss, and sensing noise affect cooperative drone tracking. It has a 6-DOF quadcopter model with an RK4 integrator and a cascaded controller. Everything in it is simulated so far; no hardware has been built.
 
